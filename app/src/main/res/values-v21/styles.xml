@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="AppTheme.Base">
+        <!-- Customize your theme here. -->
+        <item name="android:colorPrimary">@color/primaryColor</item>
+        <item name="android:colorPrimaryDark">@color/primaryColorDark</item>
+        <item name="android:colorAccent">@color/accentColor</item>
+        <item name="android:windowTranslucentStatus">true</item>
+
+    </style>
+
+    <style name="MyCustomToolbar" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:textColorPrimary">#FFC107</item>
+        <item name="android:textColorSecondary">#ffffff</item>
+    </style>
+
+</resources>

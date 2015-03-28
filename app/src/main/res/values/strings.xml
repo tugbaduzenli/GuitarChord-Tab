@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Gitar Akor-Tab</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_song_list">SongList</string>
+    <string name="title_activity_song_content">SongContent</string>
+    <string name="mainBtnText">ARA</string>
+    <string name="searchText">Sanatçı ya da şarkı adı giriniz...</string>
+    <string-array name="tabs">
+        <item>AKOR</item>
+        <item>TAB</item>
+    </string-array>
+</resources>
